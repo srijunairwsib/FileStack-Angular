@@ -2,12 +2,11 @@
 
 Steps to execute this sample 
 
-# npm install
+## npm install
 Install dependencies
 
-
-#ng serve
+## ng serve
 start node server
 
-# Go to http://localhost:4200/ on your browser
+*Go to http://localhost:4200/ on your local browser*
 
