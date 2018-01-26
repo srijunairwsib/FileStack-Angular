@@ -1,5 +1,7 @@
 # FileStack Sample on Angular
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/srijunairwsib/FileStack-Angular.svg)](https://greenkeeper.io/)
+
 Steps to execute this sample 
 
 ## npm install
