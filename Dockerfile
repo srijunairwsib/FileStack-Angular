@@ -1,4 +1,4 @@
-FROM srijunair/filestack-angular
+FROM srijunairwsib/filestack-angular
 
 MAINTAINER hoatle <sriju_nair@wsib.on.ca>
 
